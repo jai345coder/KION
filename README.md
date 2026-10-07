@@ -1,4 +1,4 @@
-# Kion 🔺
+# KION 🔺
 
 **An agentic AI assistant that doesn't just chat — it acts.**
 
